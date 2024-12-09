@@ -1,0 +1,5 @@
+quarkus:
+  log:
+    level: INFO
+
+message: "Running in test profile coming from config service"

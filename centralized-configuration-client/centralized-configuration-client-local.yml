@@ -1,0 +1,5 @@
+quarkus:
+  log:
+    level: INFO
+
+message: "Running in local profile coming from config service"
